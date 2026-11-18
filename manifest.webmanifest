@@ -1,0 +1,9 @@
+{
+  "name": "Panel de rendimiento",
+  "short_name": "Rendimiento",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F6F8",
+  "theme_color": "#12212C",
+  "icons": [{ "src": "logo.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }]
+}
